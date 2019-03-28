@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "450636689916",
+    "firebase_url": "https://mobiledevandroid-771c0.firebaseio.com",
+    "project_id": "mobiledevandroid-771c0",
+    "storage_bucket": "mobiledevandroid-771c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450636689916:android:3a72bf2ac31262bf",
+        "android_client_info": {
+          "package_name": "com.yotharit.firebaseregis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450636689916-qm20qat25378pcaf4p3hgbaqqphrrua3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yotharit.firebaseregis",
+            "certificate_hash": "7b8a808310ecb7fc3a233081f9eee8356e42c88c"
+          }
+        },
+        {
+          "client_id": "450636689916-8q5d5i01h8qc635quhg7g33g3i8e1le8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4-5a4P8Jf1Hc5z2pcmGyMzIy7Ugy354I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450636689916-8q5d5i01h8qc635quhg7g33g3i8e1le8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
